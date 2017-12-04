@@ -1,7 +1,7 @@
 i created this tool becuse java dosnt have its own cross platform console window.
 its also a good solution for using console programs outside of the java console.
 
-input and output is done witout system.out.print or scanner with system.in.
+input and output is done whitout system.out.print or scanner with system.in.
 its up to the devloper to do input and output. i have my own style you can see
 in these projects using my console framework.
 
