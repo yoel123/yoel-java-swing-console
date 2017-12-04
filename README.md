@@ -19,3 +19,7 @@ in these projets i will demonstrate how to use both of them .
 also i will create vedio tutorials on how to use this framework.
 
 for any quastions please contact me.
+
+contact form:
+
+https://programingstuff.wordpress.com/%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8/
